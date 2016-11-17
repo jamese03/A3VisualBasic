@@ -1,0 +1,13 @@
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\bin\Debug\A3-JEnglish.exe.config
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\obj\x86\Debug\A3_JEnglish.Resources.resources
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\bin\Debug\books-Fall2012-A3.accdb
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\bin\Debug\A3-JEnglish.exe
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\bin\Debug\A3-JEnglish.pdb
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\bin\Debug\A3-JEnglish.xml
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\obj\x86\Debug\A3-JEnglish.exe
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\obj\x86\Debug\A3-JEnglish.xml
+C:\Users\James\Documents\Visual Studio 2010\Projects\A3-JEnglish\A3-JEnglish\obj\x86\Debug\A3-JEnglish.pdb
+C:\Users\James\documents\visual studio 2010\Projects\A3-JEnglish\A3-JEnglish\obj\x86\Debug\A3_JEnglish.JamesEnglish.resources
